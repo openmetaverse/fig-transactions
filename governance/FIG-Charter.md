@@ -3,9 +3,7 @@
 
 ## Overview of FIG
 
-Two concise lines explaining what this FIG does with bullet points of the major responsibilities
-
-- Responsibility
+The Transactions Foundational Interest Group (FIG) is dedicated to creating open source and standards for the transfer of ownership and receipts required to audit and verify objects. This work includes the relationships between the transacted objects, transacting parties, auditing, ledgering, and proof of receipts required for the verifiable authenticity of transactions across centralized and decentralized systems.
 
 ## Goals
 
@@ -13,7 +11,13 @@ Two concise lines explaining what this FIG does with bullet points of the major 
 
 ## Scope
 
-- General scope of work not specific in nature
+* Identify and utilize centralized and decentralized ledgers or blockchains to properly scale massive microtransactions and authenticity checks for identifying and using objects or services.
+* Understand and extend legacy centralized transaction systems and how decentralized systems can and should be used on a mass scale. This work includes Decentralized Identifiers and how they may be used, including endpoints, documents, or objects targeted by DIDs.
+* Identify and define a data model for use and integrity surrounding the metadata that may or may not be embedded within an object and may be used in a decentralized manner. 
+* Create the network communication and exchange protocols for previous, current, and future transactions across unrelated systems. Identify secure layers to provide a selective disclosure of information to a transaction across endpoints and on the network.
+* Provide a model for auditing receipts for all relationships involved in a transaction, including but not limited to user, object, agreement, and enforcement.
+* Define a usable model for automated and process-driven arbitration for transactions in question by trusted partners and related parties.
+* Create a modular model for virtual, digital, and physical currency transactions with logistical controls of transfer and auditing.
 
 ## In scope
 
@@ -30,11 +34,10 @@ Two concise lines explaining what this FIG does with bullet points of the major 
 
 ## FIG Links and lists:
 
-- Joining this FIG
-- Slack/Discord
-- Mailing list
-- Issues/PRs
-- Meeting agenda & Notes
+- [Discord](https://discord.gg/openmetaverse)
+- [Mailing list](https://lists.openmv.org/g/fig-transactions)
+- [Issues/PRs](https://github.com/Open-MV/fig-transactions/issues)
+- [Meeting agenda & Notes](https://github.com/Open-MV/fig-transactions/discussions/categories/meetings)
 
 ## Roles and Organization Management
 
