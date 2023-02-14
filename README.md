@@ -2,6 +2,8 @@
 
 This repository holds materials for the Open Metaverse Foundation Interest Group for Transactions (FIG Transactions).
 
+## View [weekly meetings](./meetings/readme.md#Previous-Meetings) with the agenda, notes and audio recordings.
+
 ## Description of FIG Transactions
 
 The Transactions Foundational Interest Group (FIG) is dedicated to creating open source and standards for the transfer of ownership and receipts required to audit and verify objects. This work includes the relationships between the transacted objects, transacting parties, auditing, ledgering, and proof of receipts required for the verifiable authenticity of transactions across centralized and decentralized systems.
