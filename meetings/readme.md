@@ -23,6 +23,7 @@ Below is a list of all prior completed meetings and related resources.
 | No   | Date       | Time | Agenda  | Media | Notes | Resources |
 | ---- | ---------- | ---- | ------- | ----- | ----- | ---- |
 | 0001 | 2023-02-08 | 1800 UTC | [link](https://github.com/Open-MV/fig-transactions/discussions/2) | [Recording](https://github.com/Open-MV/fig-transactions/raw/main/meetings/media/transactions-20230208.m4a) | N/A | N/A |
+| 0002 | 2023-02-08 | 1800 UTC | [link](https://github.com/Open-MV/fig-transactions/discussions/3) | [Recording](https://github.com/Open-MV/fig-transactions/raw/main/meetings/media/transactions-20230215.m4a) | N/A | N/A |
 
 # General Resources
 
